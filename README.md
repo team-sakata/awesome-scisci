@@ -77,20 +77,28 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - ProNAS
 
 ## Researchers
-- Mike Thelwall
-- Nees Jan van Eck
-- Loet Leydesdorff
-- Dashun Wang
-- [James Evans](https://scholar.google.com/citations?user=kV4N4zoAAAAJ&hl=en)
-- Lutz Bornmann
-- Misha Teplitskiy
-- Raf Guns
-- A.F.J. van Raan
-- Ismael Rafols
-- Vincent Lariviere
-- Brian Uzzi
-- Cassidy R. Sugimoto
-- Ludo Waltman
-- Santo Fortunato
-- Rodrigo Costas
-- [Roberto Sinatra](https://scholar.google.com/citations?user=PL8nGh4AAAAJ&hl=en)
+- Science of science
+  - [Dashun Wang](https://scholar.google.com/citations?user=uQJAkBoAAAAJ&hl=ja)
+  - [James Evans](https://scholar.google.com/citations?user=kV4N4zoAAAAJ&hl=en)
+  - [Misha Teplitskiy](https://scholar.google.com/citations?user=DzSXZd9yYy8C&hl=en)
+  - [Brian Uzzi](https://scholar.google.com/citations?user=uGJ_6aQAAAAJ&hl=en)
+  - [Santo Fortunato](https://scholar.google.com/citations?user=NDrCCokAAAAJ&hl=en)
+  - [Roberto Sinatra](https://scholar.google.com/citations?user=PL8nGh4AAAAJ&hl=en)
+  - [Pierre Azoulay](https://scholar.google.com/citations?user=9aHwwswAAAAJ&hl=ja)
+  - [Chaoming Song](https://scholar.google.com/citations?user=YqpNyFUAAAAJ&hl=ja)
+  - [Yong-Yeol Ahn](https://scholar.google.com/citations?user=US7OSNgAAAAJ&hl=en)
+  - [Yian Yin](https://scholar.google.com/citations?user=CkoqBpwAAAAJ&hl=en)
+  - [Chaoqun Ni](https://scholar.google.com/citations?user=aSuMS0oAAAAJ&hl=ja)
+  - [Matt Marx](https://scholar.google.com/citations?user=rXhhLccAAAAJ&hl=ja)
+- Scientometrics
+  - [Ludo Waltman](https://scholar.google.com/citations?user=UbPa8qgAAAAJ&hl=ja)
+  - [Lutz Bornmann](https://scholar.google.com/citations?user=-XinoL8AAAAJ&hl=ja)
+  - [Vincent Lariviere](https://scholar.google.com/citations?user=UvfK8IUAAAAJ&hl=ja)
+  - [Nees Jan van Eck](https://scholar.google.com/citations?user=ksTAMO0AAAAJ&hl=en)
+  - [Rodrigo Costas](https://scholar.google.com/citations?user=6dUTpTYAAAAJ&hl=ja)
+  - [Cassidy R. Sugimoto](https://scholar.google.com/citations?user=AjKdHVMAAAAJ&hl=ja)
+  - [Ismael Rafols](https://scholar.google.com/citations?user=puqLKfsAAAAJ&hl=en)
+  - [Loet Leydesdorff](https://scholar.google.com/citations?user=ych9gNYAAAAJ&hl=en)
+  - [Mike Thelwall](https://scholar.google.ca/citations?user=8jCKL1sAAAAJ&hl=en)
+  - [Raf Guns](https://scholar.google.com/citations?user=NeSFF60AAAAJ&hl=ja)
+  - [A.F.J. van Raan](https://scholar.google.com/citations?user=G-2AKcgAAAAJ&hl=en)
