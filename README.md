@@ -21,6 +21,7 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - [PubMed](https://www.nlm.nih.gov/databases/download/pubmed_medline.html)
 - [SciSciNet](https://github.com/kellogg-cssi/SciSciNet) - A large-scale open data lake for the science of science research.
 - Dimensions
+- [Retraction Watch](https://retractionwatch.com) - Tracking retractions as a window into the scientific process
 
 ### Researchers
 - [OpenAlex](https://openalex.org/) - An open and comprehensive catalog of scholarly papers, authors, institutions, and more.
