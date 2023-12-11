@@ -13,6 +13,10 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - [STI](https://www.sti2023.org/) - International Conference on Science, Technology and Innovation Indicators
 - [twt](https://grk2696.de/?page_id=349) - Collaboration and Interdisciplinarity in Science and Technology
 
+## General Useful Resources
+- [ASJC Codes](https://support.qs.com/hc/en-gb/articles/4406036892562-All-Science-Journal-Classifications-ASJC-Codes) -ASJC codes are used in Scopus to classify and categorize published research by its subject area. This is done using the aims and scope of the title (e.g. journal), and the content that it publishes.
+
+
 ## Articles & Lectures
 | Title | Author | Date | Journal | 
 | ---- | ---- | ---- | ---- |
@@ -23,6 +27,7 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
   
 ## Databases
 ### publications
+- [Scopus indexed Journals](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=searchbasic) - All jounal list indexed in Scopus
 - [MAG(Microsoft Academic Graph)](https://docs.microsoft.com/en-us/academic-services/graph/)
 - [WoS(Web of Science)](https://clarivate.com/webofsciencegroup/solutions/web-of-science/)
 - [APS(American Phisical Society)](https://journals.aps.org/datasets)
