@@ -3,6 +3,29 @@ A curated list of awesome **Science of science** resources, libraries and platfo
 
 Science of Science is an emerging interdisciplinary field that relies on big data to unveil the reproducible patterns that govern individual scientific careers and the workings of science.
 
+## General Useful Resources
+- [ASJC Codes](https://support.qs.com/hc/en-gb/articles/4406036892562-All-Science-Journal-Classifications-ASJC-Codes) -ASJC codes are used in Scopus to classify and categorize published research by its subject area. This is done using the aims and scope of the title (e.g. journal), and the content that it publishes.
+
+## Libraries, Softwares
+### Out of the box
+- [scisci](https://github.com/DiegoKoz/scisci) - Semantic and Relational Spaces in Science of Science: Deep Learning Models for Article Vectorisation
+- [SciSciNet](https://github.com/kellogg-cssi/SciSciNet) - A large-scale open data lake for the science of science research.
+- [pySciSci](https://github.com/SciSciCollective/pyscisci) - An unified interface to analyze several of the most common Bibliometric DataBases used in the Science of Science
+[Paper](https://www.nature.com/articles/s41597-023-02198-9)
+[Paper](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00260/115875/Reproducible-Science-of-Science-at-scale-pySciSci)
+- [Sci2 Tool](https://sci2.cns.iu.edu/user/documentation.php)
+
+
+### NLP
+
+
+### Network
+- [BERTopic]()
+- [LINE]()
+- [node2vec]()
+- [SDNE]()
+
+
 ## Conferences, Programmes and Events
 - [NetSci](https://netsci2023.wixsite.com/netsci2023/program) - International School and Conference on Network Science
 - [ISSI](https://www.issi-society.org/conferences/) - The International Society for Scientometrics and Informetrics
@@ -12,9 +35,6 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - [ASIS&T](https://www.asist.org/) - The Association for Information Science and Technology
 - [STI](https://www.sti2023.org/) - International Conference on Science, Technology and Innovation Indicators
 - [twt](https://grk2696.de/?page_id=349) - Collaboration and Interdisciplinarity in Science and Technology
-
-## General Useful Resources
-- [ASJC Codes](https://support.qs.com/hc/en-gb/articles/4406036892562-All-Science-Journal-Classifications-ASJC-Codes) -ASJC codes are used in Scopus to classify and categorize published research by its subject area. This is done using the aims and scope of the title (e.g. journal), and the content that it publishes.
 
 
 ## Articles & Lectures
@@ -50,15 +70,6 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - PeerJ
 - Crossref
 - eLife
-
-## Libraries, Softwares
-- [scisci](https://github.com/DiegoKoz/scisci) - Semantic and Relational Spaces in Science of Science: Deep Learning Models for Article Vectorisation
-- [SciSciNet](https://github.com/kellogg-cssi/SciSciNet) - A large-scale open data lake for the science of science research.
-[Paper](https://www.nature.com/articles/s41597-023-02198-9)
-- [pySciSci](https://github.com/SciSciCollective/pyscisci) - An unified interface to analyze several of the most common Bibliometric DataBases used in the Science of Science
-[Paper](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00260/115875/Reproducible-Science-of-Science-at-scale-pySciSci)
-- [Sci2 Tool](https://sci2.cns.iu.edu/user/documentation.php)
-
 
 ## Journals
 - American Documentation
